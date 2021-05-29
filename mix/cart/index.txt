@@ -1,0 +1,22 @@
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<div class="row">
+
+		<a class="cart-icon">
+			<span id="totalItems">0</span>
+			<ul class="cart"></ul>
+		</a>
+	
+
+		<div class="productosWrapper large-12 columns">
+			
+		</div>
+
+	</div>
+	
+	</body>
+
