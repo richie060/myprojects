@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[usestackEOL]{stackengine} 
+\title{RESEARCH METHOD ASSIGNMENT}
+\author{N11/3/0561/018}
+\begin{document}
+\maketitle
+\section{Writing equations in latex}
+$$  \frac{a^2}{1} + {b^2} = {1}.{c^2} $$
+
+$$ \sum_{k=0}^n {k} =  {\frac{n\left(n+1\right)}{2}}$$
+
+\section{Writing chemical equations in latex}
+
+$$ \sum_{p_1<p_2<^{...} , {p_n}-{k}} ^{\left(1,2,.....n\right)}  {p_1p_2}^{....} {p_n}-{k} $$
+\begin{bmatrix} x_11 && x_90\end{matrix}
+\end{document}
